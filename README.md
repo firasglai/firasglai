@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Firas Glai</h1>
 <h3 align="center">Full-Stack Engineer | Innovator in Web & Mobile AI Powered Solutions | Multi-Specialist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=firasglai" alt="firasglai" /></a> </p>
+
 
 - 🔭 I’m currently working on [Opportunities with no borders](https://obb-ten.vercel.app/)
 
