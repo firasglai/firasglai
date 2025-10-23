@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Opportunities with no borders](https://obb-ten.vercel.app/)
+- 🔭 I’m currently working on [Opportunities with no borders](https://www.opportunitiesbeyondborders.org)
 
 - 🌱 I’m currently learning **AI powered Apps**
 
