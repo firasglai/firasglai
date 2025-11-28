@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **firas.glai.98@gmail.com**
 
-- 📄 Know about my experiences [https://firasglai.cv/](https://firasglai.cv/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
