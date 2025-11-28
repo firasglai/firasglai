@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Firas Glai</h1>
 <h3 align="center">Full-Stack Engineer | Innovator in Web & Mobile AI Powered Solutions | Multi-Specialist</h3>
 
-
-
-- 🔭 I’m currently working on [Opportunities with no borders](https://www.opportunitiesbeyondborders.org)
-
 - 🌱 I’m currently learning **AI powered Apps**
 
 - 👨‍💻 All of my projects are available at [https://firas.vercel.app/](https://firas.vercel.app/)
