@@ -59,18 +59,3 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 </details>
-
-<details>
-<summary><h3>📊 GitHub Stats</h3></summary>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=firasglai&theme=tokyonight&hide_border=false&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=firasglai&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firasglai&theme=tokyonight&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=firasglai&theme=tokyo-night" alt="Activity Graph" />
-
-</div>
-</details>
