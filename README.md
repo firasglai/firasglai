@@ -16,8 +16,7 @@
 
 ## 👨‍💻 About Me
 
-Software engineer (Engineering Degree, Polytech Intl 2021–2026) with 2+ years shipping web and
-mobile products end to end. My focus now is **AI integration that holds up in production** — not
+Software engineer with 2+ years shipping web and mobile products end to end. My focus now is **AI integration that holds up in production** — not
 demos: retrieval that returns the right chunk, agents with bounded tools, evals before deploy, and
 cost/latency you can defend.
 
